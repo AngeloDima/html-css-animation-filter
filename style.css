@@ -18,7 +18,7 @@
     width: 100px;
     height: 100px;
     background: red;
-    transition: width 2 linear;
+    transition: width 2s linear;
 }
 
 
@@ -159,22 +159,28 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .ex-10-icon {
     font-size: 60px;
 }
