@@ -162,6 +162,14 @@
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
+    transition: all 2s;
+}
+
+.ex-9-img:hover{
+    border-radius: 15%;
+    transform: scale(1.5);
+    filter: sepia(80%) brightness(124%);
+    
 }
 
 
